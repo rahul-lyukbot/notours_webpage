@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^9.0.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "webkit": "^0.0.0"
   }
 }
